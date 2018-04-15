@@ -126,14 +126,15 @@ If you do not specify a license, then the default license defined for this repos
 
 The contest remains open as long as needed, depending on participation. An end date on which all participants agree will be determined later.
 
-### I saw the Contest announcement in the forum, but I cannot comment
+### I saw the Contest announcement in the forum, but I cannot comment. What gives?
 
-A pinned, but locked, topic has been created announcing the Contest. This topic is managed by the contest organizer and will contain preliminary results as well as finished submission. It is also the place where the winners will be announced.
+A pinned, but locked, topic has been created for announcing the Contest: [Join the CHT Artwork & Goodies Design Contest and Win!](https://community.humanetech.com/t/join-the-cht-artwork-goodies-design-contest-and-win/1868)
+This topic is managed by the contest organizer and will contain preliminary results as well as finished submissions. It is also the place where the winners will be announced.
 
-But for general discussion there is a separate forum topic: 
+But for general discussion there is a separate forum topic: [CHT Artwork & Goodies Contest - General discussion](https://community.humanetech.com/t/cht-artwork-goodies-contest-general-discussion/1803)
 
 ## License
 
 All the works in this repository are licensed under the license below, unless _explicitly_ stated in subsequent README's that exist in sub-folders. If a sub-folder defines a different license, then that license applies to _all_ files and folders in this sub-folder.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This repository and the works contained in it are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> unless explicitly otherwise stated.

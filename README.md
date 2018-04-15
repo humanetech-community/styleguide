@@ -1,4 +1,4 @@
-# The CHT Artwork & Apparel Design Contest
+# The CHT Artwork & Goodies Design Contest
 
 Welcome to the Design Contest of [The Center for Humane Technology](https://humanetech.com)!
 
@@ -11,24 +11,24 @@ And also to produce some great-looking apparel that we can proudly wear at event
 Which great things of beauty and powerful symbolism can we come up with to show our commitment to Humane Tech, and make others aware of our cause?
 Who can make the coolest, most gripping original artwork, and convey our message best? This is the challenge for the competition!
 
-So are you a graphic designer? Or do you have ideas or sketches for artwork or do you want to contribute great, cool, or funny slogans or hashtags? Then chime in, and either join the contest, or help the participants improve their work.
+So are you a graphic designer? Or do you have ideas or sketches for artwork? Maybe you have some great, cool, or funny slogans or hashtags to contribute? Then chime in, add your suggestions, and either join the contest, or help the participants improve their work.
 
-Any contribution, no matter how small, is welcome! 
+Any contribution, no matter how small, is most welcome!
 
 The ongoing efforts of the participants will be shared with the community in a pinned topic and the final artwork that gets the most likes is the winner of the contest. We would love to **award the winners with some great prizes**! (but this depends on donations, read more below).
 
-No matter if you win, any contribution is **greatly valued**! And - while this community is still rather small, we expect it to grow significantly in the near future - you may attract some _real_ attention with your art, and - who knows - may even _become famous_!  :smile: :wink"
+No matter if you win, any contribution is **greatly valued**! And - while this community is still rather small, we expect it to grow significantly in the near future - you may attract some _real_ attention with your art, and - who knows - may even _become famous_!  :smile:
 
 No further intro. The following sections will get you started and up-to-speed:
 
-- [Who participates?]()
-- [How can I join?]()
-- [Help our contestants]()
-- [Apparel webshop]()
-- [Contest prizes]()
-- [Using this repository]()
-- [Licensing your work]()
-- [Additional contest info]()
+- [Who participates?](#who-participates-and-what-are-current-submissions)
+- [How can I join?](#id-like-to-join-the-contest-how-can-i-participate)
+- [Help our contestants](#how-can-i-help-the-contestants)
+- [Contest prizes](#help-find-and-donate-nice-prizes-for-contest-winners)
+- [Apparel webshop](#help-find-ways-to-print-and-sell-cht-apparel-and-goodies)
+- [Using this repository](#how-do-i-work-with-this-repository)
+- [Licensing your work](#licensing-copyright-and-attribution-of-submissions)
+- [Additional contest info](#aditional-information-about-the-contest)
 
 ## Who participates and what are current submissions?
 
@@ -44,20 +44,20 @@ You can join the contest as a participant by either:
 
 - Dropping a line to [the contest organizer](https://community.humanetech.com/u/aschrijver/summary) in a private message on the [Community Forum](https://community.humanetech.com).
   - He'll help you get started with Github and together we'll onboard you to the contest.
-- [Create an issue](https://github.com/engagingspaces/humane-tech-artwork/issues/new) in the contest repository
-- In the issue you should supply the following information:
-  - A link to your profile summary, e.g. `[MyForumUserName](UrlToMyProfileSummaryPage)` (so we know who you are)
+- [Create an issue](https://github.com/engagingspaces/humane-tech-artwork/issues/new) in the contest repository. In the issue you should supply the following information:
+  - A link to your profile summary, so we know who you are, e.g. `[MyForumUserName](UrlToMyProfileSummaryPage)`
   - The `Submission` tag, so others know you joined as well and can add comment and feedback
   - (optional) The Name of your submission, if you already have one in mind.
   - (optional) A description of your submission idea, if you already know that.
+  - (optional) The intende use of your artwork, e.g. T-shirt (front, back), baseball cap, or other uses
 
-If you have a name for your submission and files to upload, then the [repository maintainer](https://github.com/aschrijver) will create sub-folders and a README's for your submission, which you can then maintain yourself.
+If you have a name for your submission and files to upload, then the [repository maintainer](https://github.com/aschrijver) will create appropriate sub-folders and README's for your submission, which you can then maintain yourself.
 
-**Note**: You can participate in the contest with as many submissions as you like! The more the better :smile:
+**Note**: You can participate in the contest with _as many submissions as you like_! The more the better :smile:
 
 ## How can I help the contestants?
 
-Not participating? You can still join the fun! Start brainstorming and come up with powerful Symbols :peace_symbol:, Slogans, Taglines, and Hashtags for the participants to use in their work. Slogans and taglines that convey the urgency of our mission, or that are just plain funny.. everything that draws the right attention. Every contribution is welcome, and can inspire others
+Not participating? You can still join the fun! Start brainstorming and come up with powerful Symbols :peace_symbol:, Slogans :speech_balloon:, Taglines :zap:, and Hashtags  :hash: for the participants to use in their work. Slogans and taglines that convey the urgency of our mission, or that are just plain funny.. everything that draws the right attention. Every contribution is welcome, and can inspire others
 
 Here is a first idea for a hashtag, though we am sure you are much more creative:
 
@@ -77,9 +77,11 @@ The prizes should (probably) constitute something digital, because the winners c
 
 Use this issue to cooperate and brainstorm: [What are nice prizes for contest winners? Can you donate?](https://github.com/engagingspaces/humane-tech-artwork/issues/2)
 
-## How do we print and sell CHT Apparel?
+## Help find ways to print and sell CHT Apparel and Goodies
 
 There are many great companies that print T-shirts and the like at low-cost and have great online tools as well as webshops to make this really easy. Your help is needed to select the best one! Let's try to find the one that complies best to Humane Tech principles and reward them with our patronage.
+
+Other goodies for which artwork is created are mouse mats, stickers, cups, etcetera. We may make that part of the contest, but the focus is first and foremost on having some nice peaces of clothing to show off with.
 
 The requirements are:
 - **Low-cost**  - in production as well as sales prices (but humanely produced)
@@ -114,6 +116,24 @@ As in all original work you automatically retain the copyright. In addition you 
 
 A good license would be Creative Commons for Non-Commercial use, and either with or without Attribution requirement. Use [this handy tool](https://creativecommons.org/share-your-work/) to find the best option.
 
-## Aditional information on this contest
+You should add the licensing option of your choice to your own README file in the same way it is done here (by copying the html from the licensing tool) and take care that your artwork and design files have the appropriate metadata set as well (most software allows you to add properties like name, license URL, etc.).
 
-**Note**: The contest remains open as long as needed, depending on participation. An end date that we all agree upon will be announced some time in the future.
+If you do not specify a license, then the default license defined for this repository applies, which is [CC-BY](https://creativecommons.org/licenses/by/4.0/) (which means free for any purpose, provided that proper attribution is given). See the full notation in the [License](#license) paragraph at the bottom of this README.
+
+## Aditional information about the contest
+
+### When does the contest end?
+
+The contest remains open as long as needed, depending on participation. An end date on which all participants agree will be determined later.
+
+### I saw the Contest announcement in the forum, but I cannot comment
+
+A pinned, but locked, topic has been created announcing the Contest. This topic is managed by the contest organizer and will contain preliminary results as well as finished submission. It is also the place where the winners will be announced.
+
+But for general discussion there is a separate forum topic: 
+
+## License
+
+All the works in this repository are licensed under the license below, unless _explicitly_ stated in subsequent README's that exist in sub-folders. If a sub-folder defines a different license, then that license applies to _all_ files and folders in this sub-folder.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

@@ -21,7 +21,7 @@ No matter if you win, any contribution is **greatly valued**! And - while this c
 
 No further intro. The following sections will get you started and up-to-speed:
 
-- [Who participates?](#who-participates-and-what-are-current-submissions)
+- [Who is participating?](#who-participates-and-what-are-current-submissions)
 - [How can I join?](#id-like-to-join-the-contest-how-can-i-participate)
 - [Help our contestants](#how-can-i-help-the-contestants)
 - [Contest prizes](#help-find-and-donate-nice-prizes-for-contest-winners)

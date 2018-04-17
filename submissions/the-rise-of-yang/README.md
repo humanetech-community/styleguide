@@ -1,5 +1,7 @@
 # The Rise of Yang
 
+This is the second submission to the Design Contest, and it is designed by Arnold Schrijver ([aschrijver](https://community.humanetech.com/u/aschrijver/summary))
+
 Our world is moving faster and faster driven by technological advances. Life and lifestyles are changing rapidly as we have to adapt to all this change. In today's world disruption has become the norm, something to strive for. This is strange, because disruption has a negative connotation.
 
 Inventions are introduced to society without much thought about their implications, the ways in which they affect us as human beings. Our prevalent economic models are solely based on making a profit, and achieving infinite growth. As renegade economist [Kate Raworth](https://www.kateraworth.com/blog/) has so accurately phrased in her book [Doughnut Economics](https://www.kateraworth.com/blog/) _"No system in nature grows indefinitely!"_. Why then do we strive for this in our day-to-day lives? That is just utterly foolish, and completely irrational!

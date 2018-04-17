@@ -36,6 +36,7 @@ Currently we have the following participants and contributions:
 
 | Username | Status | Submission | Files |
 | :--- | :---: | :--- | :--- |
+| [nivedita](https://community.humanetech.com/u/nivedita/summary) (forum)<br/>[chandranive](https://github.com/chandranive) (github) | Submitted | [Gears of the Heart](submissions/gears-of-the-heart/README.md) | [JPEG and EPS](submissions/gears-of-the-heart) |
 | [aschrijver](https://community.humanetech.com/u/aschrijver/summary) (forum)<br/>[aschrijver](https://github.com/aschrijver) (github) | Participating | (none yet) | (none yet) |
 
 ## I'd like to join the contest! How can I participate?

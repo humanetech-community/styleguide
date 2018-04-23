@@ -40,6 +40,7 @@ Currently we have the following participants and contributions:
 | [aschrijver](https://community.humanetech.com/u/aschrijver/summary) (forum)<br/>[aschrijver](https://github.com/aschrijver) (github) | Submitted | [The Rise of Yang](submissions/the-rise-of-yang/README.md) | [PNG and SVG](submissions/the-rise-of-yang) |
 | [micheleminno](https://community.humanetech.com/u/micheleminno/summary) (forum)<br/>[micheleminno](https://github.com/micheleminno) (github) | Participating | (none yet)) | (none yet) |
 | [patm](https://community.humanetech.com/u/patm/summary) (forum) | Participating | (none yet)) | (none yet) |
+| [amandapropaganda](https://community.humanetech.com/u/amandapropaganda/summary) (forum)<br/>[amandapropaganda](https://github.com/amandapropaganda) (github) | Participating | (none yet)) | (none yet) |
 
 
 ## I'd like to join the contest! How can I participate?

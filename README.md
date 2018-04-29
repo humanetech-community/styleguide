@@ -2,7 +2,7 @@
 
 Welcome to the Design Contest of [The Center for Humane Technology](https://humanetech.com)!
 
-![The Center of Humane Design](http://static1.squarespace.com/static/57f92f5bf5e231f7e7aaa0ae/t/5a768ebb652dea12df04d0b9/1517719227886/Social+Share+Logo-v2+-+2018-02-02.jpg?format=1000w)
+[![The Center for Humane Technology](http://static1.squarespace.com/static/57f92f5bf5e231f7e7aaa0ae/t/5a768ebb652dea12df04d0b9/1517719227886/Social+Share+Logo-v2+-+2018-02-02.jpg?format=1000w)](https://humanetech.com)
 
 The purpose of this contest is to come up with some really cool artwork that we can use in our media awareness campaigns to draw attention to our mission and [The Problem](https://humanetech.com/problem) that we want to solve. 
 

@@ -39,9 +39,9 @@ Currently we have the following participants and contributions:
 | [nivedita](https://community.humanetech.com/u/nivedita/summary) (forum)<br/>[chandranive](https://github.com/chandranive) (github) | Submitted | [Gears of the Heart](submissions/gears-of-the-heart/README.md) | [JPEG, SVG and EPS](submissions/gears-of-the-heart) |
 | [aschrijver](https://community.humanetech.com/u/aschrijver/summary) (forum)<br/>[aschrijver](https://github.com/aschrijver) (github) | Submitted | [The Rise of Yang](submissions/the-rise-of-yang/README.md) | [PNG and SVG](submissions/the-rise-of-yang) |
 | [micheleminno](https://community.humanetech.com/u/micheleminno/summary) (forum)<br/>[micheleminno](https://github.com/micheleminno) (github) | Submitted | [I'm here now](submissions/im-here-now/README.md) | [JPEG and EPS](submissions/im-here-now) |
-| [patm](https://community.humanetech.com/u/patm/summary) (forum) | Participating | (none yet)) | (none yet) |
-| [amandapropaganda](https://community.humanetech.com/u/amandapropaganda/summary) (forum)<br/>[amandapropaganda](https://github.com/amandapropaganda) (github) | Participating | (none yet)) | (none yet) |
-| [om-design](https://github.com/om-design) (github) | Participating | (none yet)) | [PNG example](https://user-images.githubusercontent.com/1240107/40588068-f97974e0-61a5-11e8-911f-c2db55e6a4f0.png) |
+| [patm](https://community.humanetech.com/u/patm/summary) (forum) | Participating | (none yet) | (none yet) |
+| [amandapropaganda](https://community.humanetech.com/u/amandapropaganda/summary) (forum)<br/>[amandapropaganda](https://github.com/amandapropaganda) (github) | Participating | (none yet) | (none yet) |
+| [om-design](https://github.com/om-design) (github) | Participating | [I'm up here](submissions/im-up-here/README.md) | [PNG example](https://user-images.githubusercontent.com/1240107/40588068-f97974e0-61a5-11e8-911f-c2db55e6a4f0.png) |
 
 
 ## I'd like to join the contest! How can I participate?

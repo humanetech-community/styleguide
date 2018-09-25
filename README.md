@@ -41,6 +41,7 @@ Currently we have the following participants and contributions:
 | [micheleminno](https://community.humanetech.com/u/micheleminno/summary) (forum)<br/>[micheleminno](https://github.com/micheleminno) (github) | Submitted | [I'm here now](submissions/im-here-now/README.md) | [JPEG and EPS](submissions/im-here-now) |
 | [patm](https://community.humanetech.com/u/patm/summary) (forum) | Participating | (none yet)) | (none yet) |
 | [amandapropaganda](https://community.humanetech.com/u/amandapropaganda/summary) (forum)<br/>[amandapropaganda](https://github.com/amandapropaganda) (github) | Participating | (none yet)) | (none yet) |
+| [om-design](https://github.com/om-design) (github) | Participating | (none yet)) | [PNG example](https://user-images.githubusercontent.com/1240107/40588068-f97974e0-61a5-11e8-911f-c2db55e6a4f0.png) |
 
 
 ## I'd like to join the contest! How can I participate?

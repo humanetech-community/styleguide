@@ -1,3 +1,7 @@
+# Pyramids of Humane Technology artwork
+
+## Pyramids color scheme
+
 Orange pyramid:
 
 - Base color: F16422
@@ -22,5 +26,8 @@ Blue pyramid:
 - Level 2 tint: 4E87C0
 - Level 1 tint: 9CBADB
 
-Tints generated with: 
+---
+
+Tints were generated with: 
+
 - http://highintegritydesign.com/tools/tinter-shader/

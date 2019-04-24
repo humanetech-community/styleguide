@@ -1,6 +1,6 @@
 # Humane Tech Community Artwork [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 This repository contains artwork that was created by and for [The Humane Tech Community](https://community.humanetech) for use in community projects, on the [website](https://humanetech.community) and in (social) media campaigns. Unless otherwise stated all works are licensed as Creative Commons (see [License](#license) below).
 

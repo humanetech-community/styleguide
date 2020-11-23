@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="152" height="152" id="svg4268" version="1.1" inkscape:version="0.92.5 (0.92.5+69)" sodipodi:docname="humanetech-community-favicon-white.svg" inkscape:export-filename="/home/arnold/Documents/innercircles/humanetech/humanetech-community-artwork/community-artwork/logos/humanetech-community-favicon-196.png" inkscape:export-xdpi="116.05263519287" inkscape:export-ydpi="116.05263519287">
+  <title id="title4867">Humane Tech Community</title>
+  <defs id="defs4270" />
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.23" inkscape:cx="-339.65456910569" inkscape:cy="-118.0439285652" inkscape:document-units="px" inkscape:current-layer="humanetech-community-logo" showgrid="false" inkscape:window-width="2507" inkscape:window-height="1416" inkscape:window-x="1973" inkscape:window-y="24" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" />
+  <metadata id="metadata4273">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Humane Tech Community</dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arnold Schrijver</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>e</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="humanetech-community-logo" transform="translate(-252.02616071429,-174.31827614677)" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+    <g style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.75px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1e2227;fill-opacity:1;fill-rule:nonzero;stroke:none" id="logo-text" />
+    <path id="left-bracket" style="fill:none;stroke:#1e2227;stroke-width:2.2209157944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="M 262.02616071429,287.20781826202 277.46703571429,287.20781826202 M 262.02616071429,209.42873404396 277.46703571429,209.42873404396 M 263.60178571429,209.54711324981 263.60178571429,287.20781826202" inkscape:connector-curvature="0" />
+    <path id="right-bracket" style="fill:none;stroke:#1e2227;stroke-width:2.2209157944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" d="M 379.34491071428,287.20781826202 394.78491071428,287.20781826202 M 379.96241071428,209.42873404396 395.40241071428,209.42873404396 M 393.89366071428,209.54711324981 393.89366071428,287.20781826202" inkscape:connector-curvature="0" />
+    <text xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="268.54647827148" y="270.90365600586" id="text4156"><tspan sodipodi:role="line" id="tspan4158" x="268.54647827148" y="270.90365600586" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">HTC</tspan></text>
+  </g>
+</svg>
